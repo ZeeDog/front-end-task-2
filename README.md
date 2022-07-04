@@ -25,7 +25,8 @@
 
 - Código com testes unitários (Jest)
 - Código com acessibilidade (a11y)
-- Utilizar Styled Components
+- Utilizar TypeScript
+- Utilizar styled-components ou Stitches
 - Deploy com CI/CD
 - Hospedar o projeto no Netlify ou Vercel
 - Funcionalidade de Favoritos (adicionar e remover filmes ao favoritos, com listagem local em uma terceira página, feito com Redux)
